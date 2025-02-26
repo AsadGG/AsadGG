@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a passionate developer focused on building impactful web and mobile applications. Currently, I'm contributing to innovative software solutions at Urapptech, where I specialize in mobile development using Ionic.
+I'm a passionate developer focused on building impactful web and mobile applications. Currently, I'm contributing to innovative software solutions at [Urapptech](https://www.urapptech.com/), where I specialize in mobile development using Ionic.
 
 Here's a glimpse into what I'm up to:
 
